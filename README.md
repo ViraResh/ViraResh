@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vira</h1>
-<h3 align="left">I'm Vira Zaplatynska, a Front-end developer with 3 years of experience. My experience includes working on projects in the printing product industry, where I used HTML5, CSS/SCSS, JavaScript, JQuery, Ruby On Rails, MySQL and Angular to develop user interfaces.</h3>
+<h3 align="left">I'm Vira Zaplatynska, a Front-end developer with 4 years of experience. My experience includes working on projects in the printing product industry, where I used HTML5, CSS/SCSS, JavaScript, JQuery, Ruby On Rails, MySQL and Angular to develop user interfaces.</h3>
 
 - 🌱 I’m currently learning **Angular2+**
 
