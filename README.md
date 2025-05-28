@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vira</h1>
 <h3 align="left">I'm Vira Zaplatynska, a Front-end developer with 4 years of experience. My experience includes working on projects in the printing product industry, where I used HTML5, CSS/SCSS, JavaScript, JQuery, Ruby On Rails, MySQL and Angular to develop user interfaces.</h3>
 
-- 🌱 I’m currently learning **Angular2+**
-
-- 📫 How to reach me **viraresh@ukr.net**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vira-zaplatynska-b07b0175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vira-zaplatynska-b07b0175/" height="30" width="40" /></a>
