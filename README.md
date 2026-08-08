@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vira</h1>
 <h3 align="center">
-Front-end Developer focused on Angular, Ionic, and scalable web apps
+Full-stack Developer — Angular on the front, NestJS on the back
 </h3>
 
 ---
 
 ### About Me
 
-I'm a front-end developer, mostly Angular, for the past 5+ years.
-Most of my work is business apps — dashboards, admin panels, SaaS
-platforms — the kind of thing with a lot of forms, tables, and data
-that has to stay in sync. I also build mobile apps with Ionic.
+Front-end developer, mostly Angular, for the past 5+ years — dashboards,
+admin panels, SaaS platforms, the kind of apps with a lot of forms,
+tables, and data that has to stay in sync. I also build mobile apps
+with Ionic.
 
-A lot of what I do is picking up projects someone else started —
+Lately I've been moving into full-stack, building a sales CRM with
+Angular and NestJS (Prisma, PostgreSQL) — handling both the front end
+and the API, so I can take a product from database to UI on my own.
+
+A lot of my work is also picking up projects someone else started —
 reading through the code, figuring out how it works, and adding to it
-without breaking things. That's the part I'm actually good at.
-
----
+without breaking things.
 
 ## Tech Stack
 
@@ -29,8 +31,8 @@ without breaking things. That's the part I'm actually good at.
 
 ### Currently Working With
 
-- Angular Signals
-- RxJS
+- Angular Signals & RxJS
+- NestJS + Prisma + PostgreSQL
 - Ionic
 - Firebase
 - Cypress for testing
