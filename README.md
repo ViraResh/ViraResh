@@ -7,18 +7,14 @@ Full-stack Developer — Angular on the front, NestJS on the back
 
 ### About Me
 
-Front-end developer, mostly Angular, for the past 5+ years — dashboards,
-admin panels, SaaS platforms, the kind of apps with a lot of forms,
-tables, and data that has to stay in sync. I also build mobile apps
-with Ionic.
+Frontend Developer (Angular & Ionic) with a Ruby on Rails background
 
-Lately I've been moving into full-stack, building a sales CRM with
-Angular and NestJS (Prisma, PostgreSQL) — handling both the front end
-and the API, so I can take a product from database to UI on my own.
+About Me
+I build web and cross-platform mobile apps with Angular and Ionic — dashboards, admin panels, real-time data sync with Firebase/Firestore — using modern patterns like Signals, standalone components, and reactive forms.
 
-A lot of my work is also picking up projects someone else started —
-reading through the code, figuring out how it works, and adding to it
-without breaking things.
+Before that, I spent 4 years writing Ruby on Rails, working across models, controllers, and views on a production e-commerce platform: integrating external REST APIs, managing content through a custom CMS layer, and handling data all the way from form submission to the database.
+
+I enjoy jumping into existing codebases — understanding how something works before changing it, and leaving it better than I found it.
 
 ## Tech Stack
 
