@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vira</h1>
 <h3 align="center">
-Full-stack Developer — Angular on the front, NestJS on the back
+Frontend Developer (Angular & Ionic) with a Ruby on Rails background
 </h3>
 
 ---
 
 ### About Me
 
-Frontend Developer (Angular & Ionic) with a Ruby on Rails background
-
-About Me
 I build web and cross-platform mobile apps with Angular and Ionic — dashboards, admin panels, real-time data sync with Firebase/Firestore — using modern patterns like Signals, standalone components, and reactive forms.
 
 Before that, I spent 4 years writing Ruby on Rails, working across models, controllers, and views on a production e-commerce platform: integrating external REST APIs, managing content through a custom CMS layer, and handling data all the way from form submission to the database.
