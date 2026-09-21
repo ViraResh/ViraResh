@@ -36,3 +36,5 @@ I enjoy jumping into existing codebases — understanding how something works be
 
 - 💼 [Upwork profile](https://www.upwork.com/freelancers/~01a500142ad92b82aa)
 - 🌐 Live projects I've worked on: [gramofon.ua](https://gramofon.ua) · [vispo.ai](https://vispo.ai)
+
+[![Vira Zaplatynska profile views](https://u8views.com/api/v1/github/profiles/10295554/views/day-week-month-total-count.svg)](https://u8views.com/github/ViraResh)
