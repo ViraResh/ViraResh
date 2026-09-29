@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vira</h1>
 <h3 align="center">
-Frontend Developer (Angular & Ionic) with a Ruby on Rails background
+Full-Stack Developer
 </h3>
 
 ---
